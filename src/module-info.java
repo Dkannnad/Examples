@@ -1,5 +1,5 @@
 module example {
-	public class Maximum_Array {
+	public class module_Array {
 		
 		public static void main(String[] args) {
 			
